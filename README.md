@@ -33,3 +33,11 @@ document.body.append(canvasHtmlElement);
 const g = new Grid(400, 40, canvasHtmlElement);
 floodFill(g, {row:2, col: 2});
 ```
+
+### TODO
+
+- [x] Register NPM Package.
+- [ ] Convert into Library Package.
+- [ ] Generate API Docs.
+- [ ] Add Unit Tests
+- [ ] Create demo folder with demos

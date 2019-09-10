@@ -4,6 +4,10 @@ This repository contains code for 2D Canvas Grid. It's a class which can be used
 
 The motivation behind `2D Canvas Grid` is to provide a way to implement and visualize algorithms like Depth First Search, Breadth First Search, Flood Fill, Maze Generation, Maze Path Finding  without getting stuck into writing the visualization code. Instead `2D Canvas Grid` provides simple to use api which abstracts Canvas in `Grid` and `GridCell` These can be use to draw over the canvas.
 
+## Flood Fill Demo Gif
+
+![alt text](https://raw.githubusercontent.com/hassam7/javascript-canvas-grid/master/flood-fill.gif)
+
 ## Flood Fill Example
 ```
 function floodFill(g: Grid, griCell: GridCell) {
